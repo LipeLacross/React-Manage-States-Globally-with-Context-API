@@ -14,10 +14,7 @@ Meteora é um e-commerce desenvolvido com React, utilizando uma arquitetura base
 
 ### Exemplo Visual do Projeto
 
-Aqui estão algumas imagens do projeto em funcionamento:
-
-![Banner Carrinho](public/assets/images/banner-carrinho.png)
-![Categorias](public/assets/images/categorias/categoria-bolsa.png)
+![chrome-capture-2024-12-21 (1)](https://github.com/user-attachments/assets/890ac68d-dc26-4aed-981a-88ce386697cd)
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
