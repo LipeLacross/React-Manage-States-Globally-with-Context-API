@@ -14,7 +14,7 @@ Meteora is an e-commerce application built with React, utilizing a component-bas
 
 ### Visual Example of the Project
 
-
+![chrome-capture-2024-12-21 (1)](https://github.com/user-attachments/assets/18c699b5-a22c-45d0-bcd9-0569fa7e847e)
 
 ## ✔️ Techniques and Technologies Used
 
